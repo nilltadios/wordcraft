@@ -12,7 +12,7 @@
 # keep runtime, runtime-version, sdk and finish-args identical in both (packaging-lint checks this).
 id: ai.storyteller.wordcraft
 runtime: org.freedesktop.Platform
-runtime-version: '25.08'
+runtime-version: '26.08'
 sdk: org.freedesktop.Sdk
 sdk-extensions:
   - org.freedesktop.Sdk.Extension.rust-stable
